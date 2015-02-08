@@ -1,4 +1,4 @@
-# webflow-chrome-extension
+# Webflow chrome extension
 Open your [webflow](https://webflow.com) dashboard with a click
 
 Open your chrome extensions using the following URL:
