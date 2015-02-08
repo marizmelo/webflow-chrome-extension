@@ -1,0 +1,9 @@
+{
+  "name"			: "webflow",
+  "version"			: "1.0",
+  "description"		: "Open your webflow dashboard with a click",
+  "browser_action"	: { "name" : "webflow", "default_icon": "webflowIcon.png"},
+  "background_page"	: "background.html",
+  "permissions": ["tabs", "http://*/*", "https://*/*"],
+  "icons"			: 	{ "48" : "webflowIcon48.png" }
+}
